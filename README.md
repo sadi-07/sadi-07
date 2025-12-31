@@ -1,50 +1,89 @@
-<!-- Advanced Capsule Banner with Name -->
-![banner](https://capsule-render.vercel.app/api?type=rect&color=0:576BFE,50:27ACFE,100:1CB5E0&height=270&section=header&text=KHALED%20MAHMUD%20SADI&fontSize=42&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Engineering%20Modern%20Web%20Applications&descSize=18&descAlignY=68&animation=fadeIn)
-
-<!-- Animated Identity -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=27ACFE&center=true&vCenter=true&width=1000&lines=Designing+Modern+User+Interfaces;Developing+Scalable+Backend+APIs;React+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Firebase+Auth+%E2%80%A2+Stripe+%E2%80%A2+REST+APIs" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Khaled%20Mahmud&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-
-
-<!-- Value Statement -->
-<h3 align="center">
-⚡ Turning ideas into scalable, production-ready web applications
-</h3>
-
+<h3 align="center">Frontend Developer | CSE Student</h3>
 
 ---
 
-<!-- Who I Am -->
-<h2 align="center">👋 Who I Am</h2>
-<p align="center">
-I’m a <b>Full-Stack Developer</b> focused on building scalable, user-friendly web applications using modern technologies.
+## 👨‍💻 About Me
+- 🎓 CSE student with strong interest in web technologies  
+- 💻 Frontend Developer (React & JavaScript)  
+- 🌱 Currently learning Backend & Full-Stack Development  
+- 🚀 Passionate about building clean, responsive UIs  
+
+---
+
+## 🔥 Current Activities
+- 🔍 Exploring Next.js
+- 🛠 Working on a Tourism Website
+- 📘 Practicing Data Structures & Algorithms
+- 🌐 Improving UI/UX skills
+
+---
+
+## 🧠 Skills
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### ⚙️ Backend (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🛠 Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
 </p>
 
 ---
 
-<!-- What I Do -->
-<h2 align="center">💡 What I Do</h2>
-<p align="center">
-✔ Build full-stack MERN applications<br/>
-✔ Design responsive & animated UIs<br/>
-✔ Develop secure REST APIs<br/>
-✔ Integrate payments & authentication
+## 🌐 Social & Professional Links
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
+  </a>
 </p>
 
 ---
 
-<!-- Tech Stack Icons -->
-<h2 align="center">🛠 Tech Stack</h2>
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,git,github&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-<!-- Extra Line -->
+## 🔥 GitHub Streak
 <p align="center">
-🚀 Always learning • Always building • Always improving
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🧮 Contribution Details
+- 📌 Total Contributions  
+- 💬 Languages Used  
+- ⏱ Daily Coding Streak  
+
+---
+
+## ✨ Quote
+> *“Code is like humor. When you have to explain it, it’s bad.”*
+
+---
+
+<p align="center">
+  ⭐ If you like my profile, consider giving a star!
 </p>
