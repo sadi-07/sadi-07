@@ -44,15 +44,15 @@
 ---
 
 ## 🌐 Social & Professional Links
-<p>
+<p align="center">
   <a href="https://github.com/sadi-07">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/kmsadi2004">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/>
   </a>
   <a href="https://twitter.com/idiot_07___">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter"/>
   </a>
 </p>
 
@@ -60,15 +60,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadi-07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadi-07&layout=compact&langs_count=8&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sadi-07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadi-07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sadi-07&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sadi-07&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
