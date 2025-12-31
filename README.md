@@ -6,10 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=27ACFE&center=true&vCenter=true&width=1000&lines=Designing+Modern+User+Interfaces;Developing+Scalable+Backend+APIs;React+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Firebase+Auth+%E2%80%A2+Stripe+%E2%80%A2+REST+APIs" />
 </p>
 
-<!-- Tech Stack Visual Strip -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,git,github&perline=11" />
-</p>
+
 
 <!-- Value Statement -->
 <h3 align="center">
