@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-### ⚙️ Backend (Learning)
+### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
@@ -79,12 +79,3 @@
 </p>
 
 ---
-
-## ✨ Quote
-> *“Code is like humor. When you have to explain it, it’s bad.”*
-
----
-
-<p align="center">
-  ⭐ If you like my profile, consider giving a star!
-</p>
