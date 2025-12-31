@@ -1,9 +1,10 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Khaled%20Mahmud&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Khaled%20Mahmud%20Sadi&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Full-stack Developer | CSE Student</h3>
+<h1 align="center">🚀 Full-Stack Developer | CSE Student</h1>
+<h3 align="center">Frontend • Backend • MERN Stack</h3>
 
 ---
 
@@ -59,23 +60,23 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadi-07&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadi-07&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sadi-07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadi-07&layout=compact&langs_count=8&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sadi-07&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sadi-07&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧮 Contribution Details
-- 📌 Total Contributions  
-- 💬 Languages Used  
-- ⏱ Daily Coding Streak  
+## 🟩 Contribution Graph
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadi-07&theme=tokyonight" />
+</p>
 
 ---
 
