@@ -3,14 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Khaled%20Mahmud%20Sadi&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">🚀 Full-Stack Developer | CSE Student</h1>
-<h3 align="center">Frontend • Backend • MERN Stack</h3>
+<h1 align="center"> Full-Stack Developer | CSE Student</h1>
+<h1 align="center">Frontend • Backend • MERN Stack</h1>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 CSE student with strong interest in web technologies  
-- 💻 Frontend Developer (React & JavaScript)  
+- 💻 Full-Stack Developer (React & JavaScript)  
 - 🌱 Backend & Full-Stack Development  
 - 🚀 Passionate about building clean, responsive UIs  
 
