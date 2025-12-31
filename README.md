@@ -4,14 +4,14 @@
 </p>
 
 <h1 align="center"> Full-Stack Developer | CSE Student</h1>
-<h1 align="center">Frontend • Backend • MERN Stack</h1>
+<h2 align="center">Frontend • Backend • MERN Stack</h2>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 CSE student with strong interest in web technologies  
-- 💻 Full-Stack Developer (React & JavaScript)  
-- 🌱 Backend & Full-Stack Development  
+- 💻 Frontend Developer (React & JavaScript)  
+- 🌱 Backend Development (node.js & mongoDb)  
 - 🚀 Passionate about building clean, responsive UIs  
 
 ---
